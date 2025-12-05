@@ -15,24 +15,24 @@ brew tap simplyprint/tap
 NFC card reader agent for SimplyPrint 3D printer management.
 
 ```bash
-brew install --cask nfc-agent
+brew install nfc-agent
 ```
 
-Or install in one command:
+Or install in one command (no tap needed):
 
 ```bash
-brew install --cask simplyprint/tap/nfc-agent
+brew install simplyprint/tap/nfc-agent
 ```
 
 ## Updating
 
 ```bash
 brew update
-brew upgrade --cask nfc-agent
+brew upgrade nfc-agent
 ```
 
 ## Uninstalling
 
 ```bash
-brew uninstall --cask nfc-agent
+brew uninstall nfc-agent
 ```
