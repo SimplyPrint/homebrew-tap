@@ -1,6 +1,6 @@
 cask "nfc-agent" do
-  version "0.6.4"
-  sha256 "4e0c5eb9135177de302c30dc5df3d41c91762613da8a812b9cc0c686a823ea4c"
+  version "0.6.5"
+  sha256 "4275088acee28e3daed58d289cd6ea8ac63aa8872a7b18af880fcf81af6eda91"
 
   url "https://github.com/SimplyPrint/nfc-agent/releases/download/v#{version}/NFC-Agent-#{version}-macos.dmg"
   name "NFC Agent"
