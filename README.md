@@ -6,6 +6,7 @@ Homebrew formulae and casks for SimplyPrint software.
 
 ```bash
 brew tap simplyprint/tap
+brew trust simplyprint/tap
 ```
 
 ## Available Software
