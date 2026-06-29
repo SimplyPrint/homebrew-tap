@@ -7,12 +7,12 @@ class SimplyprintClient < Formula
   on_macos do
     on_arm do
       url "https://download.simplyprint.io/client/ota/production/targets/stable/simplyprint-client/app/simplyprint-client-1.0.0-rc.8-macos-arm64.tar.gz"
-      sha256 "01dc740532ef84f1aa65c5400d1d43f657fb0dac7c30f492717f5c66ffa80bbf"
+      sha256 "dad3e757c5314592cf74782ef9c2e5dd571b4b707b742b3438e8ea741df69e83"
     end
 
     on_intel do
       url "https://download.simplyprint.io/client/ota/production/targets/stable/simplyprint-client/app/simplyprint-client-1.0.0-rc.8-macos-x86_64.tar.gz"
-      sha256 "34f307e65c6ceb6f1e978f5e1b907b02967ba4bb0f0b5697afef45af3130187f"
+      sha256 "69b0663b3d5b51dd54524dbc779bf367a73e26167ea2b0de53c03ce9178dc49a"
     end
   end
 
