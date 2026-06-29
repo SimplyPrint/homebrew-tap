@@ -1,18 +1,18 @@
 class SimplyprintClient < Formula
   desc "SimplyPrint Client"
   homepage "https://simplyprint.io"
-  version "1.0.0-rc.7"
+  version "1.0.0-rc.8"
   license :cannot_represent
 
   on_macos do
     on_arm do
-      url "https://download.simplyprint.io/client/ota/production/targets/stable/simplyprint-client/app/simplyprint-client-1.0.0-rc.7-macos-arm64.tar.gz"
-      sha256 "b09791cf4bf57caafbe093f5629ceb2c0d67d67283091cba1e2d4c7befc37c6b"
+      url "https://download.simplyprint.io/client/ota/production/targets/stable/simplyprint-client/app/simplyprint-client-1.0.0-rc.8-macos-arm64.tar.gz"
+      sha256 "01dc740532ef84f1aa65c5400d1d43f657fb0dac7c30f492717f5c66ffa80bbf"
     end
 
     on_intel do
-      url "https://download.simplyprint.io/client/ota/production/targets/stable/simplyprint-client/app/simplyprint-client-1.0.0-rc.7-macos-x86_64.tar.gz"
-      sha256 "3601a0f62ece9f1883a5f63804f7cd5b5ce0ae3f4b035235fe9a6311501c2efb"
+      url "https://download.simplyprint.io/client/ota/production/targets/stable/simplyprint-client/app/simplyprint-client-1.0.0-rc.8-macos-x86_64.tar.gz"
+      sha256 "34f307e65c6ceb6f1e978f5e1b907b02967ba4bb0f0b5697afef45af3130187f"
     end
   end
 
